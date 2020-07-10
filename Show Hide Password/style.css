@@ -45,7 +45,7 @@ body{
     background: url(./show-512.png);
     background-size: cover;
     cursor: pointer; */
-    background: url(/hide-512.png);
+    background: url(./hide-512.png);
     height: 35px;
     width: 35px;
     position: absolute;
