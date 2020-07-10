@@ -1,0 +1,30 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fortune Generator</title>
+</head>
+<body onload="myFunction()"> 
+    <div class="links">
+        <a href="./convert.html">Converter</a>
+        <a href="./fortune-generator.html">Fortune Generator</a>
+        <a href="./quiz.html">Quiz</a>
+        
+    </div>
+    <div id="fortune">
+        <p id="text"></p>
+    </div>
+    
+</body>
+    <script>
+        let showQuotes = document.querySelector('#text')
+        let quotes = ['May the Force be with you','There\'s no place like home','I\'m the king of the world!”','It\'s alive!',' My mama always said life was like a box of chocolates',"I'll be back"]
+        let random = Math.floor(Math.random() * 6);
+        function myFunction(){
+            showQuotes.innerHTML= quotes[random];
+        }
+    </script>

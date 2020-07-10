@@ -1,0 +1,102 @@
+<<<<<<< HEAD
+#con-body{
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#con-body label{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 5px;
+    
+}
+#taka
+#con-body input{
+    width: 90px;
+    padding: 20px;
+    margin-bottom: 2px;
+}
+
+#fortune p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.links{
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.links a{
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+ #question{
+     text-align: center;
+     font-size: 30px;
+     }
+.q-option{
+   text-align: center;
+   margin-top: 5px;
+}
+.q-option button{
+
+    padding: 3px 8px;
+    margin-left: 5px;
+=======
+#con-body{
+    text-align: center;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#con-body label{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 5px;
+    
+}
+#taka
+#con-body input{
+    width: 90px;
+    padding: 20px;
+    margin-bottom: 2px;
+}
+
+#fortune p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.links{
+    text-decoration: none;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.links a{
+    padding: 5px 10px;
+    text-decoration: none;
+    background-color: cadetblue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+ #question{
+     text-align: center;
+     font-size: 30px;
+     }
+.q-option{
+   text-align: center;
+   margin-top: 5px;
+}
+.q-option button{
+
+    padding: 3px 8px;
+    margin-left: 5px;
+>>>>>>> 5d4ce61907260fecd8d132c378819551b36f604d
+}
